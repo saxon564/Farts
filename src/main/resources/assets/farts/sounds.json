@@ -1,0 +1,35 @@
+{
+	"farts": {
+		"category": "players",
+	   "subtitle": "Fart",
+		"sounds": [
+			"farts:fart1",
+			"farts:fart2",
+			"farts:fart3",
+			"farts:fart4",
+			"farts:fart5",
+			"farts:fart7",
+			"farts:fart8",
+			"farts:fart9",
+			"farts:fart10",
+			"farts:fart11",
+			"farts:fart14",
+			"farts:fart15",
+			"farts:fart16",
+			"farts:fart17",
+			"farts:fart18",
+			"farts:fart19",
+			"farts:fart20",
+			"farts:fart21"
+		]
+	},
+	"water_farts": {
+		"category": "player",
+	   "subtitle": "Water Fart",
+		"sounds": [
+			"farts:water_fart1",
+			"farts:water_fart2",
+			"farts:water_fart3"
+		]
+	}
+}
